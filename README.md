@@ -68,7 +68,7 @@
                 <option value="fin8">৮ম অধ্যায়: মূলধন বাজেটিং</option>
                 <option value="fin9">৯ম অধ্যায়: ঝুঁকি ও মুনাফার হার</option>
             </select>
-            <button class="pdf-btn" onclick="downloadPDF()">📄 ডাউনলোড PDF (সব প্রশ্ন একসাথে)</button>
+            <button class="pdf-btn" onclick="downloadPDF()">📄 ডাউনলোড PDF</button>
         </div>
 
         <div class="card-container" id="swipeArea">
